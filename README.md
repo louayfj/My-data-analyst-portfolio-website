@@ -1,6 +1,6 @@
 # Louay Faraj's Personal Portfolio Website
 
-![Louay Faraj Portfolio]()
+![Louay Faraj Portfolio](Hero section.jpg)
 
 Welcome to my personal portfolio website! This project is designed to showcase my skills, projects, and experiences as a data analyst and front-end developer. It features a modern design and dynamic animations to engage visitors.
 

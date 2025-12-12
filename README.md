@@ -50,8 +50,6 @@ Explore the various sections of the website to learn more about my professional 
 For any questions, collaborations, or inquiries, feel free to reach out to me through the following channels:
 
 - **Email**: [louayfaraj41@gmail.com](mailto:louayfaraj41@gmail.com)
-- **Phone**: +666-555-20168
-- **Location**: Bangkok, Thailand
 
 Connect with me on [GitHub](https://github.com/louayfj), [Medium](https://medium.com/@louayaraj), [LinkedIn](https://www.linkedin.com/in/louayfaraj/), and [Kaggle](https://www.kaggle.com/louayfaraj).
 
